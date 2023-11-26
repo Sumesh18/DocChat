@@ -7,3 +7,5 @@ transformers
 sentence_transformers
 huggingface_hub
 InstructorEmbedding
+faiss-cpu
+google-generativeai
