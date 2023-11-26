@@ -5,3 +5,5 @@ streamlit==1.28.2
 torch
 transformers
 sentence_transformers
+huggingface_hub
+InstructorEmbedding
