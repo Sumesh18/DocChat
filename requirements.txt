@@ -2,8 +2,3 @@ langchain==0.0.340
 PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.28.2
-
-'''
-    You will additionally need to install the following packages:
-    pip install google-generativeai transformers sentence_transformers InstructorEmbedding faiss-cpu
-'''
